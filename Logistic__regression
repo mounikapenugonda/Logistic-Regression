@@ -1,0 +1,9 @@
+What is Logistic Regression?
+ANS.
+     - A supervised Regression Machine learning algorithm.
+  	 -	A regression algorithm which does classification 
+		 - Calculates probability of belonging to a particular class.
+			- If           P > 0.5 /50 %    ========>    1
+			- if            P <0.5 / 50 %   ========>    0
+	
+	
